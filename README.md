@@ -23,7 +23,7 @@
 <p align="center">
 	I also made a collection of tools regarding free games from multiple digital stores!
 	<br>
-	It goes by the flashy name of <b>Free Game Is A Free Game</b>
+	It goes by the spectacular name of <b>Free Game Is A Free Game</b> and is availble through the following channels
 	<br>
 	<a href="https://freegameisafreegame.com"><img src="https://img.icons8.com/ios/50/000000/internet-explorer.png" alt="free game is a free game website" width="40" height="40"/></a>
 	<a href="https://discord.gg/d5yhkn7"><img src="https://img.icons8.com/ios/50/000000/discord-logo.png" alt="free game is a free game discord server" width="40" height="40"/></a>
