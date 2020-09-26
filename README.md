@@ -12,11 +12,11 @@
 </p>
 
 <p>
-	Here's some things about me
+	<i>Here's some things about me</i>
 	<ul>
 		<li>🔭 I’m currently working on my job at Codeglue with some side-projects to go</li>
 		<li>👨‍💻 Some of what I do appears on [https://www.tnrd.net](https://www.tnrd.net)</li>
-		<li>📫 You can shoot me a msg at **hello@tnrd.net**</li>
+		<li>📫 You can shoot me a msg at <b>hello@tnrd.net</b></li>
 	</ul>
 </p>
 
