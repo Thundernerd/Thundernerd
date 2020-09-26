@@ -26,7 +26,7 @@
 <p align="left">
     <b>Free Game Is A Free Game</b>
     <br>
-    Free Game Is A Free Game is a collection of places where people can get a nice overview of free games from multiple digital stores!
+    is a collection of places where people can get a nice overview of free games from multiple digital stores!
     <br>
     It's available at the following places:
     <br>
