@@ -20,10 +20,9 @@
     </ul>
 </p>
 
+<h3><i>Side Projects</i></h3>
 <p align="left">
-    <h3><i>Side Projects</i></h3>
-    <br>
-    <b>Free Game Is A Free Game</b>
+    <h4>Free Game Is A Free Game</h4>
     <br>
     Free Game Is A Free Game is a collection of places where people can get a nice overview of free games from multiple digital stores!
     <br>
