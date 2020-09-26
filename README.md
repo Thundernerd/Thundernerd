@@ -11,13 +11,14 @@
 	<img src="https://img.icons8.com/ios/50/000000/unity.png"/>
 </p>
 
-- 🔭 I’m currently working on my job at Codeglue with some side-projects to go
-
-- 👨‍💻 Some of what I do appears on [https://www.tnrd.net](https://www.tnrd.net)
-
-- 📝 I almost never write at [https://www.tnrd.net/blog](https://www.tnrd.net/blog)
-
-- 📫 You can shoot me a msg at **hello@tnrd.net**
+<p>
+	Here's some things about me
+	<ul>
+		<li>🔭 I’m currently working on my job at Codeglue with some side-projects to go</li>
+		<li>👨‍💻 Some of what I do appears on [https://www.tnrd.net](https://www.tnrd.net)</li>
+		<li>📫 You can shoot me a msg at **hello@tnrd.net**</li>
+	</ul>
+</p>
 
 <p align="center">
 	&nbsp;
