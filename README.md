@@ -35,3 +35,5 @@
 		<img align="center" src="https://img.icons8.com/ios/50/000000/twitter.png" alt="chrusb" height="30" width="30" />
 	</a>
 </p>
+
+<sub><a href="https://icons8.com/icon/22981/app-store">Icons by Icons8</a></sub>
