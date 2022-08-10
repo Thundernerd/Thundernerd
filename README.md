@@ -2,13 +2,41 @@
 <h3 align="center">I make games, tools, software, I bake sweets</h3>
 <p align="center">and I dabble around with these things!</p>
 <p align="center">
-    <img src="https://img.icons8.com/ios/50/000000/android-os.png" alt="android" width="40" height="40"/>
-    <img src="https://img.icons8.com/ios/50/000000/c-sharp-logo.png" alt="csharp" width="40" height="40"/>
-    <img src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40" />
-    <img src="https://img.icons8.com/ios/50/000000/docker.png"/>
-    <img src="https://img.icons8.com/ios/50/000000/git.png"/>
-    <img src="https://img.icons8.com/ios/50/000000/kotlin.png"/>
-    <img src="https://img.icons8.com/ios/50/000000/unity.png"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="android_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="android_light.png">
+  <img alt="android" src="android_dark.png" width="40" height="40" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="csharp_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="csharp_light.png">
+  <img alt="csharp" src="csharp_dark.png" width="40" height="40" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cplusplus_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="cplusplus_light.png">
+  <img alt="cplusplus" src="cplusplus_dark.png" width="40" height="40" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docker_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="docker_light.png">
+  <img alt="docker" src="docker_dark.png" width="40" height="40" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="git_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="git_light.png">
+  <img alt="git" src="git_dark.png" width="40" height="40" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="kotlin_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="kotlin_light.png">
+  <img alt="kotlin" src="kotlin_dark.png" width="40" height="40" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="unity_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="unity_light.png">
+  <img alt="unity" src="unity_dark.png" width="40" height="40" />
+</picture>
 </p>
 
 <p>
@@ -30,9 +58,27 @@
     <br>
     It's available at the following places:
     <br>
-    <a href="https://freegameisafreegame.com"><img src="https://img.icons8.com/ios/50/000000/internet-explorer.png" alt="free game is a free game website" width="40" height="40"/></a>
-    <a href="https://discord.gg/d5yhkn7"><img src="https://img.icons8.com/ios/50/000000/discord-logo.png" alt="free game is a free game discord server" width="40" height="40"/></a>
-    <a href="https://twitter.com/fgiafg"><img src="https://img.icons8.com/ios/50/000000/twitter.png" alt="free game is a free game twitter" width="40" height="40"/></a><br>
+    <a href="https://freegameisafreegame.com/" target="blank">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="explorer_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="explorer_light.png">
+  <img alt="online" src="explorer_dark.png" width="40" height="40" />
+</picture>
+</a>
+<a href="https://discord.gg/d5yhkn7" target="blank">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="discord_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="discord_light.png">
+  <img alt="discord" src="discord_dark.png" width="40" height="40" />
+</picture>
+</a>
+<a href="https://twitter.com/fgiafg" target="blank">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="twitter_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="twitter_light.png">
+  <img alt="twitter" src="twitter_dark.png" width="40" height="40" />
+</picture>
+</a><br>
 </p>
 
 <!-- <p align="center">
