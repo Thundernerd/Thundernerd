@@ -52,6 +52,24 @@
 
 <h3><i>Side Projects</i></h3>
 <p align="left">
+    <b>Zeepkist GTR</b>
+    <br>
+    is a mod for Zeepkist, an indie game on Steam.
+    <br>
+    It is a combination of multiple pieces of software that work together to give players the ability to a couple of different things:
+    <br>
+    <ul>
+      <li>Set both personal and/or world records</li>
+      <li>Automatically record ghosts and compete against your best one per track</li>
+      <li>Race against ghosts from other players in offline play (excluding split-screen)</li>
+      <li>Marking tracks as favorites</li>
+      <li>You can upvote your tracks, or give it a numerical rating between 1 and 5 for specific categories</li>
+    </ul>
+    You can find out more at <a href="https://zeepkist-gtr.com/" target="blank">zeepkist-gtr.com</a>
+    <br>
+    All source code is available over here: <a href="https://github.com/tnrd-org/Zeepkist-GTR" target="blank">tnrd-org/Zeepkist-GTR</a>
+    <br>
+    <br>
     <b>Free Game Is A Free Game</b>
     <br>
     is a collection of places where people can get a nice overview of free games from multiple digital stores!
